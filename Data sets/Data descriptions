@@ -1,1 +1,5 @@
-Data description
+Data sources:
+
+France social-economic data: https://statistiques-locales.insee.fr/?fbclid=IwAR3h1SgcWlg4H4R-btEWu7dnMjeO0dW9Mv-OfJ0IHf6yRI4ivAV2KNwOhd4#c=indicator
+
+Geospartial data about French Department boundaries: https://github.com/gregoiredavid/france-geojson
