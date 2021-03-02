@@ -21,3 +21,6 @@ The data sets used in this notebook contain more than 20.000 French citizens wit
 
 ### Data source: 
 The data sets were provided for a Machine Learning project at University Paris Dauphine. Raw data was extracted from <a href="https://statistiques-locales.insee.fr/?fbclid=IwAR3h1SgcWlg4H4R-btEWu7dnMjeO0dW9Mv-OfJ0IHf6yRI4ivAV2KNwOhd4#c=indicator&view=map2"> French National Institute for Statistics and Economic Studies (INSEE) </a>.
+
+### References:
+The hyperparameter tuning steps were adapted from these useful tutorials: <a href="https://towardsdatascience.com/hyperparameter-tuning-the-random-forest-in-python-using-scikit-learn-28d2aa77dd74"> Hyperparameter tuning the Random Forest in Python </a> and <a href="https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/"> Complete guide parameter tuning XGBoost with codes in Python </a>.
