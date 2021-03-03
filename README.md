@@ -6,7 +6,7 @@ Characterize 96 French departments using data about people who live and/or work 
 Methods used include KMeans & Agglomerative Algorithm, visualization libraries such as matplotlib, seaborn and geopandas.
 ##### Predictive analysis: 
 Predicting the wage of French citizens.
-Models used include Linear Regression, Stochastic Gradient Descent, Random Forest Regressor and XGBRegressor.
+Main models used are Random Forest Regressor and XGBRegressor.
 
 ### Data
 The data sets used in this notebook contain more than 20.000 French citizens with their home & job information as follows:
