@@ -17,7 +17,7 @@ The data sets used in this notebook contain more than 20.000 French citizens wit
 
 ### Notebooks:
 - `French_Departments_EDA_Geospartial.ipynb`: This notebook shows the exploratory analysis on French departments, characterized by their inhabitants and workers. 
-- `Predictive_Analysis.ipynb`: This notebook shows the data preprocessing, treating categorical variables, modeling steps using pipeline and simple GridSearchCV. 
+- `French_Departments_Predictive_Analysis.ipynb`: This notebook shows the data preprocessing, treating categorical variables, modeling steps using pipeline, RandomizedSearchCV and GridSearchCV. 
 
 ### Data source: 
 The data sets were provided for a Machine Learning project at University Paris Dauphine. Raw data was extracted from <a href="https://statistiques-locales.insee.fr/?fbclid=IwAR3h1SgcWlg4H4R-btEWu7dnMjeO0dW9Mv-OfJ0IHf6yRI4ivAV2KNwOhd4#c=indicator&view=map2"> French National Institute for Statistics and Economic Studies (INSEE) </a>.
