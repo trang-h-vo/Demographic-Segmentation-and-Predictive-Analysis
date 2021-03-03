@@ -8,6 +8,9 @@ Methods used include KMeans & Agglomerative Algorithm, visualization libraries s
 Predicting the wage of French citizens.
 Main models used are Random Forest Regressor and XGBRegressor.
 
+### Credit:
+This project is an extension from a group assignment at the University Paris Dauphine. Special thanks to my groupmate Zichuan LI for such a fun collaboration.
+
 ### Data
 The data sets used in this notebook contain more than 20.000 French citizens with their home & job information as follows:
 - `Personal info`: Age (2019), educational level & gender
