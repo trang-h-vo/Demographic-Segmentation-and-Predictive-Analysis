@@ -1,7 +1,7 @@
-# French-departments-analysis
+# French Demographic Segmentation & Wage Predictive Analysis
 
 ### Project goals
-##### Explanatory analysis: 
+##### Explanatory analysis & segmentation: 
 Characterize 96 French departments using data about people who live and/or work there. 
 Methods used include KMeans & Agglomerative Algorithm, visualization libraries such as matplotlib, seaborn and geopandas.
 ##### Predictive analysis: 
